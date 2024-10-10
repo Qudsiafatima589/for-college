@@ -1,0 +1,23 @@
+body {
+    background-color: #5c91c0; /* Light background color */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    max-width: 50px; /* Adjust logo size */
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4 {
+    margin: 10px 0;
+}
